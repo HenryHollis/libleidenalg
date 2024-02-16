@@ -3,6 +3,10 @@ add_library(libleidenalg
   Optimiser.cpp
   MutableVertexPartition.cpp
 
+  ccdModularityVertexPartition.cpp
+  ccd_utils.cpp
+  LouvainOptimiser.cpp
+
   ModularityVertexPartition.cpp
   SignificanceVertexPartition.cpp
   SurpriseVertexPartition.cpp

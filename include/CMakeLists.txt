@@ -8,7 +8,11 @@ target_sources(libleidenalg
     Optimiser.h 
     GraphHelper.h 
     MutableVertexPartition.h
-    
+
+    ccdModularityVertexPartition.h
+    ccd_utils.h
+    LouvainOptimiser.h
+
     ModularityVertexPartition.h
     SignificanceVertexPartition.h
     SurpriseVertexPartition.h
