@@ -31,7 +31,7 @@ public:
     void setGeneSampleMatrix(const std::vector<Vector>& geneSampleMatrix);
 
     // Getter for geneSampleMatrix
-    [[nodiscard]] const std::vector<Vector>& getMatrix();
+    const std::vector<Vector>& getMatrix();
 
 protected:
 private:
