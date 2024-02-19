@@ -5,7 +5,7 @@ list(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_LIST_DIR}/etc/cmake)
 
 include(version)
 
-project(libleidenalg VERSION 0)
+project(libleidenalg VERSION 0.11.1)
 
 include(GNUInstallDirs)
 include(CMakePackageConfigHelpers)
