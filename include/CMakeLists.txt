@@ -11,7 +11,6 @@ target_sources(libleidenalg
 
     ccdModularityVertexPartition.h
     ccd_utils.h
-    LouvainOptimiser.h
 
     ModularityVertexPartition.h
     SignificanceVertexPartition.h

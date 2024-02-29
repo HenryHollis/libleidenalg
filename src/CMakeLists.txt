@@ -5,9 +5,8 @@ add_library(libleidenalg
 
   ccdModularityVertexPartition.cpp
   ccd_utils.cpp
-  LouvainOptimiser.cpp
 
-  ModularityVertexPartition.cpp
+        ModularityVertexPartition.cpp
   SignificanceVertexPartition.cpp
   SurpriseVertexPartition.cpp
 
